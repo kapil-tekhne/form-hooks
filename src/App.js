@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { FormInput } from './hooks/form-hook';
+import { FormInput } from './components/formInput';
 
 class App extends Component {
   render() {
